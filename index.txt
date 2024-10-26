@@ -1,42 +1,37 @@
-Jack - personal portfolio
+# HEADER
 
-# HEDER
-
-Jack.
+Aditya Raj
 
 En
 Ar
 
-aria-label = Change Theme
-title = Change Theme
+aria-label="Change Theme"
+title="Change Theme"
 
-aria-label = Toggle Menu
-title = Toggle Menu
+aria-label="Toggle Menu"
+title="Toggle Menu"
 
-Home.
-About.
-Skills.
-Portfolio.
-Contact.
+Home
+About
+Skills
+Projects
+Contact
 
 
 
 # HERO
 
-alt = A man in a blue shirt with a happy expression
+alt="Aditya Raj in a blue shirt with a focused expression"
 
-We Design & Build Creative Products
+We Innovate & Develop AI-Driven Solutions
 
-Get in touch
-
-<ion-icon name="logo-facebook"></ion-icon>
-Facebook
-
-<ion-icon name="logo-twitter"></ion-icon>
-Twitter
+Get in Touch
 
 <ion-icon name="logo-linkedin"></ion-icon>
-Linkedin
+LinkedIn
+
+<ion-icon name="logo-github"></ion-icon>
+GitHub
 
 Scroll
 
@@ -44,158 +39,125 @@ Scroll
 
 # STATS
 
-alt = Badge icon
+alt="Experience icon"
 
-12+
+2+
 Years of Experience
 
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
-alt = Checkmark icon
+alt="Projects icon"
 
-230+
-Completed Projects
+5+
+Major Projects
 
-alt = Peoples rating icon
+alt="Clients rating icon"
 
-95+
-Happy Clients
+90+
+Satisfied Collaborations
 
 
 
 # ABOUT
 
-alt = A man in a alice blue shirt with a thinking expression
+alt="A young man in a casual blue shirt, coding and brainstorming AI solutions"
 
-About me
+About Me
 
-Need a Creative Product? I can Help You!
+Need an AI Expert? Let’s Collaborate!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Hi! I’m Aditya Raj, an AI researcher with a knack for building impactful applications and innovative models. With experience in computer vision, human pose estimation, and more, I’m constantly pushing the limits of what’s possible in AI. I work with creative teams and am driven by problem-solving, learning, and evolving. I also lead projects independently, ensuring a structured approach with agile methods and version control.
 
-Hire me
+Hire Me
 
-Download cv
+Download CV
 
 
 
 # SKILLS
 
-My skills
+My Skills
 
-What My Programming Skills Included?
+What My Programming & AI Skills Cover
 
-I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+I create efficient, intelligent, and user-friendly AI applications, delivering solutions that simplify tasks and deliver results.
 
 Skills
 Tools
 
-HTML5
-alt = HTML5 logo
+Python
+alt="Python logo"
 
-CSS3
-alt = CSS3 logo
+TensorFlow
+alt="TensorFlow logo"
 
-JavaScript
-alt = JavaScript logo
+PyTorch
+alt="PyTorch logo"
 
-TypeScript
-alt = TypeScript logo
+OpenCV
+alt="OpenCV logo"
 
-jQuery
-alt = jQuery logo
+MediaPipe
+alt="MediaPipe logo"
 
-Bootstrap
-alt = Bootstrap logo
+Langchain
+alt="Langchain logo"
 
-Angular
-alt = Angular logo
-
-React
-alt = React logo
-
-Vue
-alt = Vue logo
-
-Firebase
-alt = Firebase logo
-
-PugJs
-alt = PugJs logo
-
-SASS
-alt = SASS logo
-
-
-Ajax
-alt = Ajax logo
-
-Gulp
-alt = Gulp logo
-
-Webpack
-alt = Webpack logo
+LLamaIndex
+alt="LLamaIndex logo"
 
 Git
-alt = Git logo
+alt="Git logo"
 
-Npm
-alt = Npm logo
+Streamlit
+alt="Streamlit logo"
 
-Command Line
-alt = Command Line logo
+ROS2
+alt="ROS2 logo"
+
+Pinecone
+alt="Pinecone logo"
 
 VS Code
-alt = VS Code logo
+alt="VS Code logo"
 
 Trello
-alt = Trello logo
-
-ClickUp
-alt = ClickUp logo
+alt="Trello logo"
 
 Slack
-alt = Slack logo
-
-Photoshop
-alt = Photoshop logo
-
-Adobe XD
-alt = Adobe XD logo
+alt="Slack logo"
 
 
 
-# WOKRS
+# PROJECTS
 
-My Works
+My Projects
 
-See My Works Which Will Amaze You!
+Explore My Projects That Showcase AI Innovation
 
-We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+I develop high-quality AI applications that meet both technical and user-centric needs. My solutions focus on accessibility, efficiency, and scalability.
 
-alt = A macintosh on a yellow background.
-Lorem Ipsum Dolor 01
-April 2022
+alt="A Python code snippet for AI human pose estimation."
+YouTube Video Summariser
+June 2023
 
-alt = On a Blue background, a Wacom and a mouse.
-Lorem Ipsum Dolor 02
+alt="Image processing setup for human pose estimation."
+Human Pose Estimation
+January 2023
 
-alt = A Cassette tape on a mellow apricot background.
-Lorem Ipsum Dolor 03
+alt="Real-time human counter dashboard."
+Real-time Human Counter
+March 2023
 
-alt = Blue digital watch on a dark liver background.
-Lorem Ipsum Dolor 04
+alt="PDF interactive chatbot using Gemini AI."
+Chat with PDF using Gemini
+July 2023
 
-alt = On a dark liver background, Airport luggage car carrying a luggage.
-Lorem Ipsum Dolor 05
+alt="VisionEye Ultralytics computer vision tool interface."
+VisionEye Ultralytics
+September 2023
 
-alt = On a yellow background, a digital watch and a glass.
-Lorem Ipsum Dolor 06
-
-alt = A fujifilm instant camera on a dark electric blue background.
-Lorem Ipsum Dolor 07
-
-Load more work
+Load More Projects
 
 
 
@@ -203,44 +165,40 @@ Load more work
 
 Contact
 
-Have You Any Project? Please Drop a Message
+Have a Project? Let’s Talk!
 
-Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+Reach out and share your project details. I’ll get back to you as soon as possible.
 
 <ion-icon name="location-outline"></ion-icon>
 Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+NIT Agartala, Tripura, India
 
 <ion-icon name="call-outline"></ion-icon>
 Phone:
-(01) 234 567 789
-(09) 765 432 200
++91 123 456 7890
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+adityaraj@example.com
 
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-linkedin"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-github"></ion-icon>
 
 Name
 <ion-icon name="person-circle"></ion-icon>
-placeholder = e.g John Doe
+placeholder="e.g. Aditya Raj"
 
 Email
 <ion-icon name="mail"></ion-icon>
-placeholder = e.g johndoe@mail.com
+placeholder="e.g. adityaraj@mail.com"
 
 Phone
 <ion-icon name="call"></ion-icon>
-placeholder = Phone Number
+placeholder="Phone Number"
 
 Message
 <ion-icon name="chatbubbles"></ion-icon>
-placeholder = Write message...
+placeholder="Write message..."
 
 Send
 
@@ -248,14 +206,14 @@ Send
 
 # FOOTER
 
-Jack.
+Aditya Raj
 
-&copy; 2022 codewithsadee. All rights reserved
+&copy; 2024 Aditya Raj. All rights reserved
 
 
 
 # GO TO TOP
 
-title = Go to Top
+title="Go to Top"
 
 <ion-icon name="arrow-up"></ion-icon>
